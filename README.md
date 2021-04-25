@@ -1,4 +1,4 @@
-# Desafio_LocalizaC-_aumentoSalario
+# Desafio_LocalizaC-_aumentoSalario 💸
 # Desafio aumento de salário do BootCamp LocalizaLabs .NET Developer
 Disponibilizado como referência para quem tiver dúvias. 
 Tenho certeza que existem formas mais elegantes de resolve-lô ! 
